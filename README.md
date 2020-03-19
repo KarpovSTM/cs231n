@@ -1,6 +1,5 @@
 Реализация заданий заключена между
-# *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
-# *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
+START OF YOUR CODE / END OF YOUR CODE
 
-1. Задание 
+1. Задание/n
     Knn.ipynb и k_nearest_neighbor.py
