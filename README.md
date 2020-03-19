@@ -1,8 +1,10 @@
 Реализация заданий заключена между
 START OF YOUR CODE / END OF YOUR CODE
+
 Assigment 1:
 
 Q1: классификатор k-ближайших соседей
+
 Knn.ipynb и k_nearest_neighbor.py | осталось доделать кроссвалидацию
 
 Q2: Тренировка машины опорных векторов 
