@@ -3,10 +3,9 @@ START OF YOUR CODE / END OF YOUR CODE**
 
 # Assigment 1:
 
-## Q1: классификатор k-ближайших соседей
+## Q1: классификатор k-ближайших соседей :white_check_mark:
 
 > Knn.ipynb,  k_nearest_neighbor.py
- > > __осталось доделать кроссвалидацию__
 
 ## Q2: Тренировка машины опорных векторов 
 
