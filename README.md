@@ -5,7 +5,7 @@ START OF YOUR CODE / END OF YOUR CODE**
 
 ## Q1: классификатор k-ближайших соседей
 
-> Knn.ipynb и k_nearest_neighbor.py | 
+> Knn.ipynb,  k_nearest_neighbor.py
  > > __осталось доделать кроссвалидацию__
 
 ## Q2: Тренировка машины опорных векторов 
