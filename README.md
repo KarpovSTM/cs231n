@@ -11,8 +11,8 @@ START OF YOUR CODE / END OF YOUR CODE**
 
 
 ## Q4: Двухслойная нейронная сеть :white_check_mark:
- 
+
 
 ## Q5: Представления более высокого уровня: особенности изображения
 
-
+> proverka
